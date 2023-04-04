@@ -24,11 +24,11 @@ Techstack: Python | JavaScript | C/C++ | PyQt5 | Tkinter | React | Selenium | Be
 - 🔭 I’m currently working on MERN, Desktop applications, and Web automation
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MahreenAthar&show_icons=true&title_color=fffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nomansikandar&show_icons=true&title_color=fffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nomansikandar)   -->
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nomansikandar)   -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nomansikandar&layout=compact)](https://github.com/Nomansikandar/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomansikandar&layout=compact)](https://github.com/nomansikandar/github-readme-stats) -->
   
 ### Show some ❤️ by following and starring some of the repositories!
 
